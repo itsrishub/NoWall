@@ -1,9 +1,9 @@
 # NoWall
 Remove paywall and read/get content for free
 
-#How it works?
+# How it works?
 
-It is simple t understand, basically every sites want Google to index their content, so they don't show ads to google crawler, and this helps us as everytime google crawls the content of site it caches a copy of site and NoWall shows you the caches version of site with no paywall!
+It is simple to understand, basically every sites want Google to index their content, so they don't show ads to google crawler, and this helps us as everytime google crawls the content of site it caches a copy of site and NoWall shows you the caches version of site with no paywall!
 
 Main code:
 
